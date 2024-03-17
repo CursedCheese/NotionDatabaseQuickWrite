@@ -1,7 +1,7 @@
-# NotionDatabaseQuickWrite
+# NotionDatabaseQuickWriter
 Add data to Notion's database at high speed using Wox (Especially for Windows user. because Alfred is not available).
 
-This code is almost just a combination of the contents of the two sites below. I would like to thank the two sites for providing us with the original information.
+This code is almost just a combination of the contents of the two sites below. I would like to appreciate the two sites for providing us with the original information.
 
 + https://www.hanatare-papa.jp/entry/technology-notion-1_4
 + https://00m.in/BqXQp
