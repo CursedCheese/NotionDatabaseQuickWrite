@@ -1,0 +1,12 @@
+{
+    "ID":"",
+    "ActionKeyword":"fn",
+    "Name":"Notion Database Quick Writer",
+    "Description":"Notion Database Quick Writer",
+    "Author":"HanatarePapa",
+    "Version":"1.0",
+    "Language":"python",
+    "Website":"",
+    "IcoPath":"img\\Notion_icon.png",
+    "ExecuteFileName":"notion_database_writer.py"
+}
